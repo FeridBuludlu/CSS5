@@ -74,5 +74,8 @@ section{
     padding-left: 10px;
     cursor: pointer;
 }
+.card-footer i:hover{
+    color: rgb(68, 255, 0);
+}
 
 
